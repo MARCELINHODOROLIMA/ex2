@@ -20,6 +20,8 @@
   "description": "",
   "devDependencies": {
     "grunt": "^1.6.1",
+    "grunt-contrib-sass": "^2.0.0",
+    "install": "^0.13.0",
     "sass": "^1.85.0"
   }
 }
